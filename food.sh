@@ -1,0 +1,16 @@
+xqmkdir Food
+cd Food
+mkdir Proteins
+mkdir Veggies
+cd Proteins
+touch tofu.prt
+cd ..
+cd Veggies
+mkdir Leafy
+mkdir Root
+cd Leafy
+touch kale.veg
+cd ..
+cd Root
+touch yam.veg
+cd ../..
